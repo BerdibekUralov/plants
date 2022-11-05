@@ -1,13 +1,11 @@
 # Responsive Plants Website 🎍 
-## [Watch it on youtube](https://youtu.be/lpzExNZDizI)
+## [Смотри на netlify](https://p1ants.netlify.app/)
 ### Responsive Plants Website 🎍
 
-- Responsive Plants Website Using HTML, CSS and JavaScript.
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Адаптивный веб-сайт растений с использованием HTML, CSS и JavaScript.
+- Содержит анимацию при прокрутке.
+- Включает темный и светлый режим.
+- Сначала разработано с использованием методологии Mobile First, а затем для настольных компьютеров.
+- Совместим со всеми мобильными устройствами и имеет красивый и приятный пользовательский интерфейс.
 
 ![plants website](/preview.png)
